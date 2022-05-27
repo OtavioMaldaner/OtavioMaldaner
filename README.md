@@ -2,7 +2,7 @@
   <a href="https://github.com/OtavioMaldaner">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioMaldaner&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+ 
 <!--
 **OtavioMaldaner/OtavioMaldaner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
