@@ -40,9 +40,10 @@
     <img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%230d1117.svg?style=for-the-badge&logo=jupyter"/>
     <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Visual%20Studio%20Code-%230d1117.svg?style=for-the-badge&logo=visual-studio-code"/>
 </p>
+
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioMaldaner&layout=compact&langs_count=7&theme=transparent&hide_border=true"/>
-    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=OtavioMaldaner&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=006AFE&sideNums=006AFE&fire=006AFE&ring=006AFE&sideLabels=39686F"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=OtavioMaldaner&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=006AFE&border=006AFE&fire=006AFE&ring=006AFE&sideLabels=39686F&currStreakLabel=39686F&currStreakNum=58A5FE"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OtavioMaldaner&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
     <img width="57%" src="https://activity-graph.herokuapp.com/graph?username=OtavioMaldaner&theme=github-dark-blue&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=00000000&point=273638&color=006afd&line=006afd" alt="GitHub Commits Graph" />
 </div>
