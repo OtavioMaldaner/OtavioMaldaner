@@ -16,16 +16,35 @@
 * [Authenty Flexão](https://www.authenty.com.br/WebApps/FlexaoSimples/)
 
 ## My golas
-* **Languages I've used**: Python, Java, CSS, HTML, JavaScript, SQL, PHP, TypeScript;
-* **Frameworks I've used**: ReactJS, React Native;
-* **IDE's I've used**: Eclipse, Visual Studio Code;
+* **Languages I've used**:
+<p align="center">
+    <img alt="Python" src="https://img.shields.io/badge/python-%230d1117.svg?style=for-the-badge&logo=python"/>
+    <img alt="Java" src="https://img.shields.io/badge/java-%230d1117.svg?style=for-the-badge&logo=java"/>
+    <img alt="CSS" src="https://img.shields.io/badge/css3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+    <img alt="HTML" src="https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html5"/>
+    <img alt="Javascript" src="https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript"/>
+    <img alt="SQL" src="https://img.shields.io/badge/sql-%230d1117.svg?style=for-the-badge&logo=sql"/>
+    <img alt="PHP" src="https://img.shields.io/badge/php-%230d1117.svg?style=for-the-badge&logo=php"/>
+    <img alt="Typescript" src="https://img.shields.io/badge/typescript-%230d1117.svg?style=for-the-badge&logo=typescript"/>
+</p>
+
+* **Frameworks I've used**:
+<p align="center">
+    <img alt="React" src="https://img.shields.io/badge/react-%230d1117.svg?style=for-the-badge&logo=react"/>
+    <img alt="React Native" src="https://img.shields.io/badge/react%20native-%230d1117.svg?style=for-the-badge&logo=react"/>
+</p>
+
+* **IDE's I've used**:
+<p align="center">
+    <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-%230d1117.svg?style=for-the-badge&logo=Eclipse"/>
+    <img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%230d1117.svg?style=for-the-badge&logo=jupyter"/>
+    <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Visual%20Studio%20Code-%230d1117.svg?style=for-the-badge&logo=visual-studio-code"/>
+</p>
 <div>
-    <a href="https://github.com/OtavioMaldaner">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioMaldaner&layout=compact&langs_count=7&theme=transparent&hide_border=true"/>
-    </a>
-    <a href="https://github.com/OtavioMaldaner">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OtavioMaldaner&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
-    </a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioMaldaner&layout=compact&langs_count=7&theme=transparent&hide_border=true"/>
+    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=OtavioMaldaner&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000&stroke=006AFE&sideNums=006AFE&fire=006AFE&ring=006AFE&sideLabels=39686F"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OtavioMaldaner&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img width="57%" src="https://activity-graph.herokuapp.com/graph?username=OtavioMaldaner&theme=github-dark-blue&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=00000000&point=273638&color=006afd&line=006afd" alt="GitHub Commits Graph" />
 </div>
 
 ## Contact
