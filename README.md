@@ -1,7 +1,7 @@
 # Welcome to my GitHub's profile!
 ## About me
 * Actually studying at Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Campus Feliz;
-* 17 years old;
+* 18 years old;
 * Actually working at [Authenty Softwares](http://authenty.com.br);
 
 ## Some highlights
