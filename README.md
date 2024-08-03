@@ -10,7 +10,7 @@
 * [Netflix clone with ReactJS](https://github.com/OtavioMaldaner/Clone-Netflix)
   * My first project with ReactJS;
 
-## My golas
+## My goals
 * **Languages I've used**:
 <p align="center">
     <a href="https://github.com/OtavioMaldaner">
